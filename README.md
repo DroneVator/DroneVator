@@ -2,8 +2,14 @@
 - 👀 I’m interested in Metal Music
 - 🌱 I’m currently learning Java
 - 📫 How to reach me :
-  <h2> Hey there! I'm DroneVator. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <h2> Hey there! I'm DroneVator.  </h2>
+  
+  ![AFSD](https://user-images.githubusercontent.com/95744339/224732561-311372ab-d60c-45ab-be9a-7d1136b06c44.jpg)
+
+
+
+<br>
+<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

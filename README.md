@@ -23,7 +23,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | PHP | CSS | Java | C++  | C#
+- 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C#
 - 🌐 &nbsp; Android | flutter | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git

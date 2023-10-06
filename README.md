@@ -25,15 +25,15 @@
 - 🎓 &nbsp; Studying at University of Muhammadiyah Malang.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Movie enjoyer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C#
-- 🌐 &nbsp; Android | flutter | HTML | CSS | Bootstrap 
+- 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C# | Dart 
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>

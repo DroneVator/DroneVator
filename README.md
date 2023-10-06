@@ -4,7 +4,8 @@
 - 📫 How to reach me :
   <h2> Hey there! I'm DroneVator.  </h2>
   
-  ![AFSD](https://user-images.githubusercontent.com/95744339/224732561-311372ab-d60c-45ab-be9a-7d1136b06c44.jpg)
+![logoku](https://github.com/DroneVator/test/assets/95744339/ca5b2b7c-dcbf-4efd-a467-95c85051a7f1)
+
 
 
 

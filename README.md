@@ -5,7 +5,7 @@
   <h2> Hey there! I'm DroneVator.  </h2>
 
   
-![logoku](https://github.com/DroneVator/test/assets/95744339/ca5b2b7c-dcbf-4efd-a467-95c85051a7f1)
+![logoku](https://github.com/DroneVator/convertimg/assets/95744339/6749bf6c-02fc-464b-8d5f-9e43bfca2d4f)
 
 
 

@@ -3,24 +3,15 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me :
   <h2> Hey there! I'm DroneVator.  </h2> <br>
-  <br>
-  <br>
 
-<div align="center" width="50" height="100">
+<div align="center" width="50" height="50">
   
 ![logoku](https://github.com/DroneVator/convertimg/assets/95744339/6749bf6c-02fc-464b-8d5f-9e43bfca2d4f)
 
 </div>
 
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

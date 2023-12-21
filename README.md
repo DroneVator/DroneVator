@@ -2,19 +2,22 @@
 - 👀 I’m interested in Metal Music
 - 🌱 I’m currently learning Java
 - 📫 How to reach me :
-  <h2> Hey there! I'm DroneVator.  </h2> <br>
+  <h1> Hey there! I'm DroneVator.  </h1> <br>
+  <div align="center">
+    <h2>//Loading. . .</h2>
+  </div>
 
 <br>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 📖 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying at University of Muhammadiyah Malang.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Movie enjoyer.
+- 🤖 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
+- 🍿 &nbsp; Watching Movie enjoyer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
@@ -23,7 +26,7 @@
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; Canva | Photoshop | Figma
 
 <br>
 

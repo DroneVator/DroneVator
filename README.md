@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DroneVator
 - 👀 I’m interested in Metal Music
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Mobile Development
 - 📫 How to reach me :
   <h1> Hey there! I'm DroneVator.  </h1> <br>
   <div align="center">

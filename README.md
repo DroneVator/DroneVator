@@ -36,7 +36,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&langs_count=&text_color=daf7dc&bg_color=151515)](https://github.com/DroneVator/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&theme=tokyonight)
 
 
 <h3> 🤝🏻 Connect with Me </h3>

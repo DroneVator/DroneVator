@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DroneVator
 - 👀 I’m interested in Metal Music
 - 🌱 I’m currently learning Mobile Development
-- 📫 How to reach me :
+- 🤖 How to know me :
   <h1> Hey there! I'm DroneVator.  </h1> <br>
   <div align="center">
     <h2>//Loading. . .</h2>
@@ -23,9 +23,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C# | Dart 
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🌐 &nbsp; Android | Flutter | Vue.js | React.js | Tailwind | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp | DBeaver
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Unity
 - 🖥 &nbsp; Canva | Photoshop | Figma
 
 <br>

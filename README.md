@@ -36,7 +36,7 @@
   
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git | Unity | Arduino | Visual Studio
 
- <img src="https://skillicons.dev/icons?i=androidstudio" /> |  <img src="https://skillicons.dev/icons?i=vscode" /> |  <img src="https://skillicons.dev/icons?i=git" /> |  <img src="https://skillicons.dev/icons?i=unity" /> |  <img src="https://skillicons.dev/icons?i=arduino" /> |  <img src="https://skillicons.dev/icons?i=visualstudio" /> 
+   <img src="https://skillicons.dev/icons?i=androidstudio" /> |  <img src="https://skillicons.dev/icons?i=vscode" /> |  <img src="https://skillicons.dev/icons?i=git" /> |       <img src="https://skillicons.dev/icons?i=unity" /> |  <img src="https://skillicons.dev/icons?i=arduino" /> |  <img src="https://skillicons.dev/icons?i=visualstudio" /> 
   
 - 🖥 &nbsp; Photoshop | Figma
   

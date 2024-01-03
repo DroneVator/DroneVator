@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DroneVator
+👋 Hi, I’m @DroneVator
 - 👀 I’m interested in Metal Music
 - 🙇🏻 I’m currently learning Mobile Development
 - 🤖 How to know me :
@@ -22,11 +22,25 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C# | Dart 
-- 🌐 &nbsp; Android | Flutter | Vue.js | React.js | Tailwind | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp | DBeaver
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Unity
-- 🖥 &nbsp; Canva | Photoshop | Figma
+- 💻 &nbsp; HTML | PHP | CSS | Java | JS  | C# | Dart | Python | TypeScript
+
+  <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=css" /> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=cs" /> | <img src="https://skillicons.dev/icons?i=dart" /> | <img src="https://skillicons.dev/icons?i=py" /> |  <img src="https://skillicons.dev/icons?i=ts" /> 
+  
+- 🌐 &nbsp; Laravel | Flutter | Vue.js | React.js | Tailwind | Bootstrap
+
+  <img src="https://skillicons.dev/icons?i=laravel" /> | <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=vue" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=tailwind" /> | <img src="https://skillicons.dev/icons?i=bootstrap" />
+  
+- 🛢 &nbsp; MySQL | Firebase | Postman
+
+   <img src="https://skillicons.dev/icons?i=mysql" /> |  <img src="https://skillicons.dev/icons?i=firebase" /> |  <img src="https://skillicons.dev/icons?i=postman" /> 
+  
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Unity | Arduino | Visual Studio
+
+ <img src="https://skillicons.dev/icons?i=androidstudio" /> |  <img src="https://skillicons.dev/icons?i=vscode" /> |  <img src="https://skillicons.dev/icons?i=git" /> |  <img src="https://skillicons.dev/icons?i=unity" /> |  <img src="https://skillicons.dev/icons?i=arduino" /> |  <img src="https://skillicons.dev/icons?i=visualstudio" /> 
+  
+- 🖥 &nbsp; Photoshop | Figma
+  
+   <img src="https://skillicons.dev/icons?i=ps" /> |  <img src="https://skillicons.dev/icons?i=figma" /> 
 
 <br>
 

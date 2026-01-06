@@ -42,15 +42,15 @@
   
    <img src="https://skillicons.dev/icons?i=ps" /> |  <img src="https://skillicons.dev/icons?i=figma" /> 
 
-<!-- <br>
+<br>
 
 <br>
 
-![DroneVator's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DroneVator&theme=tokyonight&hide_border=false)
+![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=DroneVator&show_icons=true&theme=radical)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&layout=compact&theme=vision-friendly-dark)
 
 
 <h3> 🤝🏻 Connect with Me </h3>

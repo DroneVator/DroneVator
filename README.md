@@ -46,11 +46,19 @@
 
 <br>
 
-![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=DroneVator&show_icons=true&theme=radical)
+<br>
+
+![DroneVator's GitHub stats](https://github-readme-stats.vercel.app/api?username=DroneVator&show_icons=true&theme=radical)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&layout=compact&theme=vision-friendly-dark)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&layout=compact&theme=radical)
+
+<br>
+
+<br>
 
 
 <h3> 🤝🏻 Connect with Me </h3>

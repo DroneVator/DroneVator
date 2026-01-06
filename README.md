@@ -42,7 +42,7 @@
   
    <img src="https://skillicons.dev/icons?i=ps" /> |  <img src="https://skillicons.dev/icons?i=figma" /> 
 
-<br>
+<!-- <br>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroneVator&theme=tokyonight) -->
 
 
 <h3> 🤝🏻 Connect with Me </h3>
